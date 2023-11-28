@@ -52,7 +52,12 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 ## Program:
 #### Half Subtractor:
 ```
-
+module fulladder(diff,a,b,carry);
+input a,b;
+output diff,carry;
+xor(diff,a,b);
+and(carry,a,b);
+endmodule
 ```
 #### Full Subtractor:
 ```
