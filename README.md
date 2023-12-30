@@ -94,6 +94,6 @@ endmodule
 ### Half Subtractor:
 ![DE Experiment 4(hs) Waveform output](https://github.com/nithilans060306/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473026/e2b36ae9-d34f-46fc-829b-895c3535a6fc)
 ### Full Subtractor:
-![DE Experiment 4(fs) Waveform output](https://github.com/nithilans060306/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473026/0c851e9b-253a-4726-887f-e353c122dd50)
+![DE Experiment 4(fs) Waveform output](https://github.com/nithilans060306/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473026/fa90cf1d-c585-434c-9eeb-ed70bd2ffd96)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
