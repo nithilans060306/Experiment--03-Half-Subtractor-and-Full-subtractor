@@ -100,7 +100,7 @@ endmodule
 ![half diagram](https://github.com/Ashwathm12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849225/436e2025-c944-4084-92be-2e283861c52a)
 
 #### Full Subtractor:
-![full diagram](https://github.com/Ashwathm12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849225/89007b68-f73a-495d-93c3-60fd752b7638)
+![DE Experiment 4(fs) Waveform output](https://github.com/Ashwathm12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473026/f2c6f479-c3d5-4610-855e-8ffd41098946)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
